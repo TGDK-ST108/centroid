@@ -131,7 +131,6 @@ For integration or BFE verification:
 
 ✉️ licensing@tgdk.io
 
-☎️ 1-800-TGDK-AI
 
 “Balance is not symmetry. It is presence held in divergence.”
 — Lex Beneficia, Verse 11
