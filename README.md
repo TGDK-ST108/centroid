@@ -1,0 +1,2 @@
+# centroid
+Defines centroid structures
